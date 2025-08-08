@@ -14,21 +14,19 @@ Il utilise **PHP** et **MySQL**, et fonctionne en local grâce à **XAMPP**.
 
 ---
 
+###  Placer le projet dans `htdocs`
+- Copier le dossier du projet "stage"  dans :   C:/xampp/htdocs/
+
 ###  Importer la base de données
-1. Ouvrir le navigateur et accéder à :  
-http://localhost/phpmyadmin
-
-2. Créer une nouvelle base de données `users`).
+1. Ouvrir le navigateur et accéder à :  http://localhost/phpmyadmin
+2. Créer une nouvelle base de données `users`.
 3. Dans cette base, cliquer sur **Importer**.
-4. Sélectionner le fichier :   /sql/users.sql
-
+4. Sélectionner le fichier :   /sql/users.sql  qui se trouve dans le dossier du projet
 5. Cliquer sur **Exécuter** pour importer la base de données.
 
 ---
 
-###  Placer le projet dans `htdocs`
-- Copier le dossier du projet dans :
-C:/xampp/htdocs/
-
+###  Lancer le projet
+- Dans le navigateur, aller à :  http://localhost/stage/home
 
 
