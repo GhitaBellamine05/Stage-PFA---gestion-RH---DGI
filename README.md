@@ -6,7 +6,7 @@ Il utilise **PHP** et **MySQL**, et fonctionne en local grâce à **XAMPP**.
 
 ---
 
-## 🚀 Installation et démarrage
+## Installation et démarrage
 
 ###  Installer XAMPP
 - Télécharger et installer [XAMPP](https://www.apachefriends.org/download.html) selon votre système d’exploitation.
