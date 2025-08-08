@@ -1,4 +1,4 @@
-# Stage-PFA---gestion-RH---DGI
+# Stage-PFA-gestion-RH-DGI
 
 ##  Description
 Ce projet est un système de gestion des ressources humaines développé pour la **DGI** dans le cadre du **PFA**.  
