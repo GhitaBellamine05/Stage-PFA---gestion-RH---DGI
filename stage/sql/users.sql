@@ -541,7 +541,6 @@ ALTER TABLE `utilisateurs`
 --
 -- Contraintes pour les tables déchargées
 --
-
 --
 -- Contraintes pour la table `absences`
 --
